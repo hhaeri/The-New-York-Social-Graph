@@ -1,4 +1,4 @@
-# The New York Social Graph Project
+# The New York Social Network Graph Project
 ## Objective
 In this project I built a social network for New York's social elite by web scraping the [New York Social Diary](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150913224145%2Fhttp%3A%2F%2Fwww.newyorksocialdiary.com%2F). The data forms a natural social graph for New York's social elite. To create the social newtrok for New York's social elite, I conducted the follwoing stages:
 1. Web scraped the [New York Social Diary](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150913224145%2Fhttp%3A%2F%2Fwww.newyorksocialdiary.com%2F) webpage using Beautiful Soup and API request.
