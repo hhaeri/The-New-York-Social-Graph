@@ -7,4 +7,4 @@ In this project I built a social network for New York's social elite by web scra
 4. Build the social graph with the assumption that people in the same picture know each other thus belong to a social network. The network was designed using python's [NetworkX](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fnetworkx.github.io%2F) library. The connection between each celebrity pair is constructed using an undirected weighted graph.
 5. Using Networkx, this network build the social network and find the most popular socialites, most influential people and the most tightly connected pairs.
 
-For a more comprehensive understanding of this project, please consult the complete Colab notebook of my project, accessible []().
+For a more comprehensive understanding of this project, please consult the complete Colab notebook of my project, accessible [here](https://github.com/hhaeri/The-New-York-Social-Graph/blob/main/social_network_graph.ipynb).
